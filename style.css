@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    color: aquamarine;
+}
+
+.ingredients {
+    color: blue;
+}
+.steps {
+    color: blueviolet;
+}
+
+h1 {
+    font-weight: bold;
+}
